@@ -1,2 +1,2 @@
 # hello-world
-test program
+This is a test program to understand how to use GitHub
